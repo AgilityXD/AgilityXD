@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @AgilityXD
+- 👋 Hi, I’m Claris
 - 👀 I’m interested in digital art 
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on game development 
 - 📫 How to reach me : ongzy0406@gmail.com
-- 😄 Pronouns: she/they
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I like to draw silly cats (⁠ㆁ⁠ω⁠ㆁ⁠)
 
 <!---
