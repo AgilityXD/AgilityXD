@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Claris
-- 👀 I’m interested in digital art 
-- 🌱 I’m currently learning software engineering 
-- 💞️ I’m looking to collaborate on game development 
+- 🎓 I’m a diploma student from APU
+- 🌱 I’m currently studying software engineering
+- 💞️ My interests include software developement and digital art
 - 📫 How to reach me : ongzy0406@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like to draw silly cats (⁠ㆁ⁠ω⁠ㆁ⁠)
+- ⚡ Fun fact: I like to draw silly cats!
 
 <!---
 AgilityXD/AgilityXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
